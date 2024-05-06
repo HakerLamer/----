@@ -8,4 +8,4 @@ docker pull tomhetfrainsiden/sbercont_egorshramov
 
 docker run -d -p {ваш порт}:8080 sbercont_egorshramov
 
-После этого зайти на http://localhost:{ваш порт}/GetRandomBreeds.
+После этого зайти на http://localhost:{ваш порт}/GetRandomBreeds
